@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="orange">#FF9900</color>
+    <color name="purple">#512DA8</color>
+    <color name="lightPurple">#673AB7</color>
+    <color name="lightestPurple">#6E43D6</color>
+    <color name="transparent">#0FFF</color>
+    <color name="transparentDark">#4000</color>
+    <color name="transparentLight">#2BFFFFFF</color>
+    <color name="blue">#284CDC</color>
+    <color name="aqua">#00727C</color>
+    <color name="lemonYellow">#fff44f</color>
+    <color name="grey">#999</color>
+    <color name="darkGrey">#363636</color>
+
+    <!--AQI Scale Colors-->
+    <color name="scaleGood">#009966</color>
+    <color name="scaleModerate">#F4D11E</color>
+    <color name="severe">#7e0023</color>
+    <color name="very_poor">#cc0033</color>
+    <color name="poor">#ff8821</color>
+
+    <color name="satisfactory">#3bc142</color>
+    <!--Widget-->
+    <color name="widgetBackground">#9000</color>
+    <color name="widgetStroke">#00BCD4</color>
+</resources>

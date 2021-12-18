@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AirQuality</string>
+    <string name="aqi_title">Air Quality Index</string>
+    <string name="good">Good</string>
+    <string name="hazardous">Hazardous</string>
+    <string name="moderate">Moderate</string>
+    <string name="place_holder">---</string>
+    <string name="poor">Poor</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="search_menu_title">Search</string>
+    <string name="sereve">Severe</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="very_poor">Very Poor</string>
+</resources>
